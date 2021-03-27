@@ -33,4 +33,6 @@ npm install
 node app.js
 ```
 
+### Customize configuration
+See [Configuration docs](https://nodejs.org/en/docs/).
 
